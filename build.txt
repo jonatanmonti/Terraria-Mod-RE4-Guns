@@ -1,0 +1,5 @@
+displayName = RE4 Weapons
+author = jonatan
+version = 1.0.0
+homepage = https://github.com/jonatanmonti/Terraria-Mod-RE4-Guns
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*, .gitignore, README.md, workshop\*, tools\*

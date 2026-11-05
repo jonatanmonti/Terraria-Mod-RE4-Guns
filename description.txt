@@ -1,0 +1,12 @@
+RE4 Weapons adds the full arsenal of Resident Evil 4 (2005): 18 weapons.
+[c/C83C32:Handguns] - Handgun, Punisher, Red9, Blacktail, Matilda
+[c/C83C32:Shotguns] - Shotgun, Riot Gun, Striker
+[c/C83C32:Rifles] - Rifle, Rifle (semi-auto)
+[c/C83C32:Machine guns] - TMP, Chicago Typewriter
+[c/C83C32:Magnums] - Broken Butterfly, Killer7, Handcannon
+[c/C83C32:Special] - Mine Thrower, Rocket Launcher, Knife
+
+Guns use bullets (launchers use rockets). Craft them at an Anvil (or Mythril Anvil in Hardmode), buy them from the Arms Dealer as you progress, or find rare drops.
+
+Agrega las 18 armas del Resident Evil 4 (2005). Incluye traducción al español.
+Fan-made mod, not affiliated with Capcom.

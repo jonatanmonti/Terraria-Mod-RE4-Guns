@@ -1,0 +1,285 @@
+Mods: {
+	RE4Weapons: {
+		Items: {
+			Handgun: {
+				DisplayName: Handgun
+				Tooltip:
+					'''
+					Resident Evil 4 - Handgun
+					Uses bullets
+					'''
+			}
+
+			Punisher: {
+				DisplayName: Punisher
+				Tooltip:
+					'''
+					Resident Evil 4 - Handgun
+					Bullets pierce 2 extra enemies
+					Uses bullets
+					'''
+			}
+
+			Red9: {
+				DisplayName: Red9
+				Tooltip:
+					'''
+					Resident Evil 4 - Handgun
+					Uses bullets
+					'''
+			}
+
+			Blacktail: {
+				DisplayName: Blacktail
+				Tooltip:
+					'''
+					Resident Evil 4 - Handgun
+					Uses bullets
+					'''
+			}
+
+			Matilda: {
+				DisplayName: Matilda
+				Tooltip:
+					'''
+					Resident Evil 4 - Machine pistol
+					Fires 3-round bursts
+					Uses bullets
+					'''
+			}
+
+			Shotgun: {
+				DisplayName: Shotgun
+				Tooltip:
+					'''
+					Resident Evil 4 - Shotgun
+					Fires 5 pellets
+					Uses bullets
+					'''
+			}
+
+			RiotGun: {
+				DisplayName: Riot Gun
+				Tooltip:
+					'''
+					Resident Evil 4 - Shotgun
+					Fires 6 pellets
+					Uses bullets
+					'''
+			}
+
+			Striker: {
+				DisplayName: Striker
+				Tooltip:
+					'''
+					Resident Evil 4 - Shotgun
+					Fires 6 pellets
+					Uses bullets
+					'''
+			}
+
+			Rifle: {
+				DisplayName: Rifle
+				Tooltip:
+					'''
+					Resident Evil 4 - Bolt-action rifle
+					Bullets pierce 1 extra enemies
+					Right click to zoom out
+					Uses bullets
+					'''
+			}
+
+			RifleSemiAuto: {
+				DisplayName: Rifle (semi-auto)
+				Tooltip:
+					'''
+					Resident Evil 4 - Semi-automatic rifle
+					Bullets pierce 1 extra enemies
+					Right click to zoom out
+					Uses bullets
+					'''
+			}
+
+			TMP: {
+				DisplayName: TMP
+				Tooltip:
+					'''
+					Resident Evil 4 - Submachine gun
+					Uses bullets
+					'''
+			}
+
+			ChicagoTypewriter: {
+				DisplayName: Chicago Typewriter
+				Tooltip:
+					'''
+					Resident Evil 4 - Submachine gun
+					Infinite ammo
+					Uses bullets
+					'''
+			}
+
+			BrokenButterfly: {
+				DisplayName: Broken Butterfly
+				Tooltip:
+					'''
+					Resident Evil 4 - Magnum
+					Bullets pierce 2 extra enemies
+					Uses bullets
+					'''
+			}
+
+			Killer7: {
+				DisplayName: Killer7
+				Tooltip:
+					'''
+					Resident Evil 4 - Magnum
+					Bullets pierce 1 extra enemies
+					Uses bullets
+					'''
+			}
+
+			Handcannon: {
+				DisplayName: Handcannon
+				Tooltip:
+					'''
+					Resident Evil 4 - Magnum
+					Bullets pierce 4 extra enemies
+					Uses bullets
+					'''
+			}
+
+			MineThrower: {
+				DisplayName: Mine Thrower
+				Tooltip:
+					'''
+					Resident Evil 4 - Mine launcher
+					Fires sticky proximity mines
+					Uses rockets
+					'''
+			}
+
+			RocketLauncher: {
+				DisplayName: Rocket Launcher
+				Tooltip:
+					'''
+					Resident Evil 4 - Rocket launcher
+					Uses rockets
+					'''
+			}
+
+			Knife: {
+				DisplayName: Knife
+				Tooltip: Resident Evil 4 - Knife
+			}
+		}
+
+		RecipeGroups: {
+			SilverBar: Any Silver Bar
+			EvilBar: Any Demonite or Crimtane Bar
+			CobaltBar: Any Cobalt Bar
+			MythrilBar: Any Mythril Bar
+			AdamantiteBar: Any Adamantite Bar
+		}
+	}
+}
+
+Items: {
+	Blacktail: {
+		DisplayName: Blacktail
+		Tooltip: ""
+	}
+
+	Handgun: {
+		DisplayName: Handgun
+		Tooltip: ""
+	}
+
+	Matilda: {
+		DisplayName: Matilda
+		Tooltip: ""
+	}
+
+	Punisher: {
+		DisplayName: Punisher
+		Tooltip: ""
+	}
+
+	Red9: {
+		DisplayName: Red9
+		Tooltip: ""
+	}
+
+	ChicagoTypewriter: {
+		DisplayName: Chicago Typewriter
+		Tooltip: ""
+	}
+
+	TMP: {
+		DisplayName: T M P
+		Tooltip: ""
+	}
+
+	BrokenButterfly: {
+		DisplayName: Broken Butterfly
+		Tooltip: ""
+	}
+
+	Handcannon: {
+		DisplayName: Handcannon
+		Tooltip: ""
+	}
+
+	Killer7: {
+		DisplayName: Killer7
+		Tooltip: ""
+	}
+
+	Rifle: {
+		DisplayName: Rifle
+		Tooltip: ""
+	}
+
+	RifleSemiAuto: {
+		DisplayName: Rifle Semi Auto
+		Tooltip: ""
+	}
+
+	RiotGun: {
+		DisplayName: Riot Gun
+		Tooltip: ""
+	}
+
+	Shotgun: {
+		DisplayName: Shotgun
+		Tooltip: ""
+	}
+
+	Striker: {
+		DisplayName: Striker
+		Tooltip: ""
+	}
+
+	Knife: {
+		DisplayName: Knife
+		Tooltip: ""
+	}
+
+	MineThrower: {
+		DisplayName: Mine Thrower
+		Tooltip: ""
+	}
+
+	RocketLauncher: {
+		DisplayName: Rocket Launcher
+		Tooltip: ""
+	}
+}
+
+RecipeGroups: {
+	SilverBar: Mods.RE4Weapons.RecipeGroups.SilverBar
+	EvilBar: Mods.RE4Weapons.RecipeGroups.EvilBar
+	CobaltBar: Mods.RE4Weapons.RecipeGroups.CobaltBar
+	MythrilBar: Mods.RE4Weapons.RecipeGroups.MythrilBar
+	AdamantiteBar: Mods.RE4Weapons.RecipeGroups.AdamantiteBar
+}
